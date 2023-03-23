@@ -9,4 +9,4 @@
 
 ---
 
-<mark style="background-color: gray">Hope you like it</mark>
+`Hope you like it`
